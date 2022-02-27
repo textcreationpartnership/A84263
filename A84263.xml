@@ -1,0 +1,156 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding true and happy newes from Pomfret Castle. Beeing a perfect description of a great battaile, fought by Mr. Hotham, sonne to Sr. Iohn Hotham, with 300. horse and 500. foote, against the Lord Savill, and Sir Francis Nevill, with 1500. horse and foot, before the walls of Pomfret Castle. Oct. 7. Also declaring how the Lord Savill was wounded and above 200. of his men slaine in the fight.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84263</idno>
+            <idno type="STC">Wing E3769</idno>
+            <idno type="STC">Thomason E121_33</idno>
+            <idno type="STC">ESTC R22630</idno>
+            <idno type="EEBO-CITATION">99871802</idno>
+            <idno type="PROQUEST">99871802</idno>
+            <idno type="VID">156136</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84263)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156136)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E121[33])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding true and happy newes from Pomfret Castle. Beeing a perfect description of a great battaile, fought by Mr. Hotham, sonne to Sr. Iohn Hotham, with 300. horse and 500. foote, against the Lord Savill, and Sir Francis Nevill, with 1500. horse and foot, before the walls of Pomfret Castle. Oct. 7. Also declaring how the Lord Savill was wounded and above 200. of his men slaine in the fight.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Rider,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Octob. 11. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, d. 1645 Jan. 1 --  Early works to 1800.</term>
+               <term>Nevill, Francis, --  Sir --  Early works to 1800.</term>
+               <term>Sussex, Thomas Savile, --  Earl of, 1590?-1659? --  Early works to 1800.</term>
+               <term>Pontefract Castle (Pontefract, West Yorkshire) --  Siege, 1642 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156136:1"/>
+            <pb facs="tcp:156136:1" rendition="simple:additions"/>
+            <p>EXCEEDING True And Happy NEWES FROM POMFRET CASTLE.</p>
+            <p>Beeing a perfect deſcription of a great Battaile, fought by Mr. <hi>Hotham,</hi> Sonne to Sr <hi>Iohn Hotham,</hi> with 300. Horſe and 500. Foote, againſt the Lord <hi>Savill,</hi> and Sir <hi>Francis Nevill,</hi> With 1500. Horſe and Foot, before the walls of <hi>Pomfret</hi> Caſtle. oct. 7.</p>
+            <p>Alſo declaring how the Lord <hi>Savill</hi> was wounded and above 200. of his men ſlaine in the fight.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for THO: <hi>Rider Octob.</hi> 11. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <pb facs="tcp:156136:2"/>
+            <pb facs="tcp:156136:2"/>
+            <head>True and happy Newes from <hi>Pom<g ref="char:EOLhyphen"/>fret</hi> Caſtle in <hi>Yorkeſhire,</hi> beeing a per<g ref="char:EOLhyphen"/>fect diſcription of a great and wonderfull Batrtaile fought by Mr. <hi>Hotham,</hi> ſonne of Sr. <hi>Iohn Hotham.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He noble and he<g ref="char:EOLhyphen"/>roicke Acts that hath oftentimes been performed &amp; put in Execution by that thrice wor<g ref="char:EOLhyphen"/>thy and undaunted souldier Sr. <hi>Iohn Hotham,</hi> whoſe name together with his prowes, is blazed through our wholl King<g ref="char:EOLhyphen"/>dome, for performing that charge and truſt which was repoſed in him by the great Aſſembly of Parliament, at <hi>Hull,</hi> when his enemies ſpleen and invetterate
+<pb facs="tcp:156136:3"/>mallice burſt forth, thirſting after his bloud, likewiſe that noble and heroicke ſpi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it Mr. <hi>Hotham,</hi> ſonne to Sr. <hi>Iohn Ho<g ref="char:EOLhyphen"/>tham</hi> doth follow his fathers Steps, bearing the ſame mind and conſtant reſolution that his Prececeſſors hath done, for when that he beard ſay that the Lord <hi>Savill</hi> and Sr. <hi>Jervis Nevill,</hi> with divers others of their confederates, had taken Sanctuary in <hi>Pomfret</hi> Caſtle, in <hi>Yorkeſhire,</hi> he humbly deſired his fathers conſent that he might march out of <hi>Hull</hi> with ſome certain num<g ref="char:EOLhyphen"/>ber of Forces, and to advance toward the ſaid Caſtle, and after ſometime ſpent in contemplation thereupon, Sr. <hi>John Ho<g ref="char:EOLhyphen"/>tham</hi> gave conſent to his Sonnes deſires, and ordered that he ſhould have 500. Foote, and 300. Horſe and by his command to march againſt the diſturbers of the peace of the Kingdome, which was immediate<g ref="char:EOLhyphen"/>ly performed, and when Mr. <hi>Hotham</hi> was in readineſſe to ſet forth, he propounded divers propoſitions to his Soldiers, which was as followeth.</p>
+            <p n="1">1. <hi>To know whether they were willing to
+<pb facs="tcp:156136:3"/>ſerve under him, and to hazard their lives with him in defence of he true proteſtant Reli<g ref="char:EOLhyphen"/>gion, the Law<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of the Land, and liberty of the Subject,</hi> in which he had no ſooner expreſ<g ref="char:EOLhyphen"/>ſed himſelfe, bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they all with loud accla<g ref="char:EOLhyphen"/>mations cryed out, and declared unto him that they would looſe their deareſt lives with him then Mr. <hi>Hotham</hi> with his com<g ref="char:EOLhyphen"/>pany immediatlly marched from <hi>Hull,</hi> ta<g ref="char:EOLhyphen"/>king his leave or his Father, towards <hi>Key<g ref="char:EOLhyphen"/>wood</hi> Caſtle, not farre from the City of <hi>Yorke,</hi> when after ſome ſhot ſpent for the ſpace of two houres, they obtain<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d the ſame. Then be ſet downe his reſolution to march towards <hi>Pomfret</hi> Caſtle, where in<g ref="char:EOLhyphen"/>deed he found great oppoſition.</p>
+            <p>For this newes beeing with all haſt and poſſible expedition carried to the Lord <hi>Savill,</hi> who was within the ſaid Caſtle, giving him notice that he would be beſie<g ref="char:EOLhyphen"/>ged by the Parliament Forces, if not ſpee<g ref="char:EOLhyphen"/>dily prevented, whereupon be orpered his men, beeing neere upon a thouſand, to march forth and to meet the ſaid Mr. <hi>Ho<g ref="char:EOLhyphen"/>tham,</hi> which they did accordingly.</p>
+            <pb facs="tcp:156136:4"/>
+            <p> At their firſt greeting maſter <hi>Hotham</hi> let ſly a meſſenger to him from one of his Cannons, where upon the Lord <hi>Savill</hi> ſent a Herrauld of armes to maſter <hi>Hotham,</hi> to deſire to know what was the cauſe of his comming in that hoſtile manner, who im<g ref="char:EOLhyphen"/>mediately rendered him an anſwer to this or the like effect. That he came to pre<g ref="char:EOLhyphen"/>ſerve the peace of the County, and to ex<g ref="char:EOLhyphen"/>ecute the orders of Parliament, and to ap<g ref="char:EOLhyphen"/>prehend all ſuch as are delinquents to ei<g ref="char:EOLhyphen"/>ther one or both Houſes of Parliament.</p>
+            <p>Vpon which anſwer the Lord <hi>Savill</hi> preſently ſent to the Earle of <hi>Cumberland,</hi> requiring him to aſſiſt him with all expe<g ref="char:EOLhyphen"/>dition, but before that he could come in, Mr <hi>Hotham</hi> joyned battaile with the ſaid Sr. <hi>John Savill,</hi> playing with his Ordnance with ſuch furious courage, and alſo aſſaul<g ref="char:EOLhyphen"/>ting of him with his Horſe and foot both in the Front and Reare, and wing, inſo<g ref="char:EOLhyphen"/>much that he was forced ſoon to retreate, to the Caſtle, but the blades of <hi>Hull</hi> pur<g ref="char:EOLhyphen"/>ſuing them ſo cloſe that they killed 300. of his men before they could get into the
+<pb facs="tcp:156136:4"/>Caſtle, and wounded Sr. <hi>Francis Nevill</hi> of <hi>Cheate,</hi> with the loſſe of very few men.</p>
+            <p>But the Lord <hi>Savill</hi> having gotten in<g ref="char:EOLhyphen"/>to the Caſtle with his Forces, immediate<g ref="char:EOLhyphen"/>ly ſhut the gates and began to make uſe of his Ordnance that were mounted upon the wals of the Caſtle, ſhooting and diſ<g ref="char:EOLhyphen"/>charging very furiouſly againſt Mr. <hi>Ho<g ref="char:EOLhyphen"/>thams</hi> men, but lying under ſhoot, in re<g ref="char:EOLhyphen"/>gard they were ſo neare the walls of the Caſtle, Mr. <hi>Hotham</hi> preſently commanded two of his greateſt pieces of Ordnance to be planted againſt the port of the Caſtle, on the south ſide, which ſpeedily made entrance for his men, where fourthwith they entered not doing of the leaſt injury that night, ſuch was the care and charge of Mr. <hi>Hotham,</hi> in preſerving mens lives and ſhedding of blood, untill ſuch time as the Lord <hi>Savill</hi> with his complices be<g ref="char:EOLhyphen"/>gan to oppoſe them, which Mr. <hi>Hotham</hi> ſeting, forthwith commanded all his men to make ready and to give Fire upon them inſomuch that Skirmiſh in the Caſtle be<g ref="char:EOLhyphen"/>gan to grow hot, continuing for the ſpace
+<pb facs="tcp:156136:5"/>of one houre, but at the laſt they in the Caſtle began to yeeld to Mr. <hi>Hothams</hi> mer<g ref="char:EOLhyphen"/>cy, and ſome of them ſeeking to ſave them<g ref="char:EOLhyphen"/>ſelves by flight, alſo it is credibly report<g ref="char:EOLhyphen"/>ed that the Lord <hi>Savill</hi> is very dangerous<g ref="char:EOLhyphen"/>ly wounded, thus hath Mr. <hi>Hotham</hi> wonne the Caſtle of <hi>Pomfret,</hi> which he now hold<g ref="char:EOLhyphen"/>eth and maintaineth for the uſe of the King and Parliament, cleering the Coaſt thereabouts, of all evill affected perſons to both.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
